@@ -2,7 +2,7 @@ title: "Héctor Torres Vera"
 description: "Biochemist, Science Writer, and Communicator"
 baseurl: ""
 url: "https://hltorresvera.github.io"
-theme: jekyll-theme-hyde
+remote_theme: fongandrew/hydeout
 
 # Navigation
 header_pages:
