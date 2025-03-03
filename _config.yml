@@ -7,7 +7,6 @@ theme: minima
 # Navigation
 header_pages:
   - index.md
-  - blog.md
 
 # Build settings
 plugins:
