@@ -1,0 +1,21 @@
+title: "Héctor Torres Vera"
+description: "Biochemist, Science Writer, and Communicator"
+baseurl: ""
+url: "https://hltorresvera.github.io"
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - resume.md
+  - portfolio.md
+  - blog.md
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
