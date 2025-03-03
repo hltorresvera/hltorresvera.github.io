@@ -1,4 +1,4 @@
-title: "Héctor Torres Vera"
+title: "Héctor L. Torres Vera"
 description: "Biochemist, Science Writer, and Communicator"
 baseurl: ""
 url: "https://hltorresvera.github.io"
@@ -7,9 +7,6 @@ theme: minima
 # Navigation
 header_pages:
   - index.md
-  - about.md
-  - resume.md
-  - portfolio.md
   - blog.md
 
 # Build settings
