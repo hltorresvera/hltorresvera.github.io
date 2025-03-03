@@ -3,8 +3,8 @@ layout: post
 title:  "Is this thing on?"
 ---
 
-# Helllooooo
+# Is this a post exerpt?
 
 **Hello world**, or something!
 
-Let' seeeee if this works.
+Let' seeeee if this works. Oh it does! This is lovely!
