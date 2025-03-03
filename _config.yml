@@ -2,7 +2,7 @@ title: "Héctor Torres Vera"
 description: "Biochemist, Science Writer, and Communicator"
 baseurl: ""
 url: "https://hltorresvera.github.io"
-theme: minima
+theme: jekyll-theme-hyde
 
 # Navigation
 header_pages:
@@ -19,3 +19,6 @@ plugins:
 
 # Markdown settings
 markdown: kramdown
+
+# Custom Styles (Add to assets/css/style.css)
+custom_css: /assets/css/style.css
