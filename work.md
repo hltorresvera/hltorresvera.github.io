@@ -5,10 +5,10 @@ title: Work
 
 A collection of my publications. 
 
-Science writing:
+<u> Science writing:</u>
 
 
-Misc. Journalism:
+<u> Misc. Journalism:</u>
 
 
-Academic publications: 
+<u> Academic publications:</u>
