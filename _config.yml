@@ -1,8 +1,8 @@
-title: "Héctor Torres Vera"
+title: "Héctor L Torres Vera"
 description: "Biochemist, Science Writer, and Communicator"
 baseurl: ""
 url: "https://hltorresvera.github.io"
-theme: minima
+theme: "minimal-mistakes-jekyll"
 
 # Navigation
 header_pages:
@@ -22,3 +22,7 @@ markdown: kramdown
 
 # Custom Styles (Add to assets/css/style.css)
 custom_css: assets/css/style.css
+
+# Minimal Mistakes Settings
+show_excerpts: true
+paginate: 5
