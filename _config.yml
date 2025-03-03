@@ -21,4 +21,4 @@ plugins:
 markdown: kramdown
 
 # Custom Styles (Add to assets/css/style.css)
-custom_css: /assets/css/style.css
+custom_css: assets/css/style.css
