@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
-I’m a queer, Boricua, molecular biologist and science writer. I study the structure and function of channelrhodopsins.
+I’m a queer, Boricua, molecular biologist and science writer.
 
-I also use strategic, evidence-based communication practices to foster trust, build community, and increase citizen engagement with the scientific community.
+In my thesis work, I'm using cryo-electron micrscopy and electrophysiology to understand the structure and function of channelrhodopsins.
 
+I'm also a strategic, evidence-based, science communicator. My practices aim to foster trust, build community, and increase citizen engagement with research.
 
 ![fjord king of bonita](/assets/images/profile.png)
