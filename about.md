@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+![me](/assets/images/me.jpg)
+
 I was raised by my mom in Ponce, Puerto Rico.
 
 From there, I did my B.S. in chemistry at the University of Puerto Rico at Cayey, where I got heavily involved in scientific research. This led me to pursue a Ph.D. in the Department of Molecular and Cell Biology at the University of California, Berkeley.
