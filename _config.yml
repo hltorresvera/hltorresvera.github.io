@@ -7,7 +7,7 @@ theme: minima
 # Navigation
 header_pages:
   - index.md
-  - work.md
+  - writing.md
 
 # Build settings
 plugins:
