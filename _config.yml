@@ -3,7 +3,7 @@ author:
 description: "Biochemist, Science Writer, and Communicator"
 baseurl: ""
 url: "https://hltorresvera.github.io"
-remote_theme: jekyll/minima
+theme: minima
 
 
 
