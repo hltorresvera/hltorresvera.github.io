@@ -2,7 +2,7 @@
 layout: default
 title: Writing
 ---
-###science writing   
+### science writing   
 the berkeley science review
 - [Learning on the fly: untangling the neural circuitry behind the brain’s sense of direction](https://www.berkeleysciencereview.com/article/2024/08/12/learning-on-the-fly)
 - [Cobamide co-op: How gut bacteria share essential vitamins](https://www.berkeleysciencereview.com/article/2021/05/28/cobamide-co-op)
