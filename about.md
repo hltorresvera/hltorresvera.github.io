@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+# about me
+
 <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="300" align="right"/>
 
 I was raised by my mom in Ponce, Puerto Rico.
