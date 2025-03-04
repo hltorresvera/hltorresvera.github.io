@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work
+title: Writing
 ---
 
 A collection of my publications. 
