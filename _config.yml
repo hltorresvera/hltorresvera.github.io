@@ -1,10 +1,11 @@
 title: "Héctor L. Torres Vera"
+author:
 description: "Biochemist, Science Writer, and Communicator"
 baseurl: ""
 url: "https://hltorresvera.github.io"
-theme: minima
-minima:
-  skin: dark
+remote_theme: jekyll/minima
+
+
 
 # Navigation
 header_pages:
