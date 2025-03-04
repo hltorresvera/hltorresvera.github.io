@@ -12,7 +12,7 @@ I'm also a **strategic**, **evidence-based**, science communicator. My practices
 [about me]({{ site.baseurl }}{% link about.md %})
 
 <center> 
-<img src="https://hltorresvera.github.io/assets/images/profile.png" width="450" />
+<img src="https://hltorresvera.github.io/assets/images/profile.png" width="450" />  
   
 <i>my king, Fjord - Dec 2024 </i> 
 </center>
