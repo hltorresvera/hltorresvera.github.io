@@ -5,7 +5,7 @@ title: Work
 
 A collection of my publications. 
 
-<u>Science writing:</u>
+<u>Science writing</u>
 - <i>The Berkeley Science Review</i>
   - [Learning on the fly: untangling the neural circuitry behind the brain’s sense of direction](https://www.berkeleysciencereview.com/article/2024/08/12/learning-on-the-fly)
   - [Cobamide co-op: How gut bacteria share essential vitamins](https://www.berkeleysciencereview.com/article/2021/05/28/cobamide-co-op)
@@ -22,7 +22,7 @@ A collection of my publications.
    
 
 
-<u> Misc. Journalism:</u>
+<u> Misc. Journalism</u>
 
 
-<u> Academic publications:</u>
+<u> Academic publications</u>
