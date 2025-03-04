@@ -11,5 +11,7 @@ I'm also a **strategic**, **evidence-based**, science communicator. My practices
 
 [about me]({{ site.baseurl }}{% link about.md %})
 
-![fjord king of bonita](/assets/images/profile.png)
+<img src="https://hltorresvera.github.io/assets/images/profile.png" width="250" align="center"/>
+
+<center> my king, Fjord </center>
 
