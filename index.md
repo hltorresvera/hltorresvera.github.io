@@ -12,3 +12,5 @@ I'm also a strategic, evidence-based, science communicator. My practices aim to 
 [about me]({{ site.baseurl }}{% link about.md %})
 
 ![fjord king of bonita](/assets/images/profile.png)
+
+ <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.png">
