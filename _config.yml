@@ -5,7 +5,10 @@ baseurl: ""
 url: "https://hltorresvera.github.io"
 theme: minima
 
+author:
+  email: torresvera.hl [at] gmail.com
 
+description: 
 
 # Navigation
 header_pages:
