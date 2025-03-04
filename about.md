@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-![me](/assets/images/me.jpg)
+![me](/assets/images/me.jpg =250x250)
 
 I was raised by my mom in Ponce, Puerto Rico.
 
