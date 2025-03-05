@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img src="https://hltorresvera.github.io/assets/images/me.jpg" width="300" align="right"/>
+<img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" align="right"/>
 
 # about me
 
