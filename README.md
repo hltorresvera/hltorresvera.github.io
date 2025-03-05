@@ -22,6 +22,6 @@ This project is licensed under an MIT License.
 
 ## Contact
 
-For any inquiries, please contact me at [torresvera.hl@gmail.com].
+For any inquiries, please contact me at torresvera.hl [at] gmail.com
 
 Enjoy exploring my work!
