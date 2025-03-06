@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-<img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" align="right" style="padding: 0px 5px 5px 5px;"/>
+![me](https://hltorresvera.github.io/assets/images/me.jpg){: width="350" align="right" style="padding: 0px 5px 5px 5px;"}
 
-# about me
+## about me
 
 Puertorican born in Texas but raised Ponce.
 
@@ -14,4 +14,3 @@ I did my B.S. in chemistry at the University of Puerto Rico at Cayey, where I go
 Currently, I am Managing Editor for the Berkeley Science Review and a Senior Editor for SciCommBites, as well as an author and editor for the MCB Transcript at UC Berkeley.
 
 My motivation in life is to bring the joy and excitement of scientific discovery to others by sharing my genuine fascination with the world and how it works.
-
