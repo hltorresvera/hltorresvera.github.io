@@ -3,7 +3,10 @@ layout: default
 title: About
 ---
 
-![me](https://hltorresvera.github.io/assets/images/me.jpg){: width="350" align="right" style="padding: 0px 5px 5px 5px;"}
+<div style="text-align: right;">
+  <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" style="padding: 0px 5px 5px 5px;">
+  <p style="font-size: 12px; color: gray;">me next to the UC Berkeley Cal-Cryo Krios G3</p>
+</div>
 
 ## about me
 
