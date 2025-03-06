@@ -43,4 +43,3 @@ MCB Transcript Departmental Newsletter - UC Berkeley - California
 (2020-present)
 
 - Wrote short-form (~500 word) and long-form (~2000 word) magazine articles highlighting Berkeley research for lay audiences.  
-
