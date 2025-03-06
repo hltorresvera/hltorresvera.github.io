@@ -7,9 +7,9 @@ title: About
 
 # about me
 
-I was raised by my mom in Ponce, Puerto Rico.
+Puertorican born in Texas but raised Ponce.
 
-From there, I did my B.S. in chemistry at the University of Puerto Rico at Cayey, where I got heavily involved in scientific research. This led me to pursue a Ph.D. in the Department of Molecular and Cell Biology at the University of California, Berkeley.
+I did my B.S. in chemistry at the University of Puerto Rico at Cayey, where I got heavily involved in scientific research. This led me to pursue a Ph.D. in the Department of Molecular and Cell Biology at the University of California, Berkeley.
 
 Currently, I am Managing Editor for the Berkeley Science Review and a Senior Editor for SciCommBites, as well as an author and editor for the MCB Transcript at UC Berkeley.
 
