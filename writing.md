@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Writing
 ---
 ## science writing   
@@ -16,4 +16,3 @@ title: Writing
 - [ByrdBot: Simulated tweets to communicate climate change](https://scicommbites.org/byrdbot-simulated-tweets-to-communicate-climate-change/)
 - [Do climate change communications need more f***ing aggression?](https://scicommbites.org/do-climate-change-communications-need-more-fing-aggression/)
 - [Hitting the brakes on the hype train: how audiences perceive uncertainty in science](https://scicommbites.org/hitting-the-brakes-on-the-hype-train-how-audiences-perceive-uncertainty-in-science/)
-   

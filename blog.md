@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Blog
 ---
 <h1>Latest Posts</h1>
