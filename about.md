@@ -17,4 +17,3 @@ My motivation in life is to bring the joy and excitement of scientific discovery
   <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" style="padding: 0px 5px 5px 5px;">
   <p style="font-size: 12px; color: gray;">me, next to the UC Berkeley Cal-Cryo Krios G3</p>
 </div>
-

@@ -16,10 +16,6 @@ This website serves as a platform to highlight my featured work, including resea
 - **Publications**: A list of my published papers and articles.
 - **Blog**: Posts about science and writing.
 
-## License
-
-This project is licensed under an MIT License. 
-
 ## Contact
 
 For any inquiries, please contact me at torresvera.hl [at] gmail.com
