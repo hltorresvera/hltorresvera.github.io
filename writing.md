@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Writing
 ---
 ## science writing   
