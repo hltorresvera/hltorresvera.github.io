@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Resume
+title: resume
 ---
 
 ## education
