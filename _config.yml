@@ -6,12 +6,20 @@ author:
 description: Biochemist, Science Writer, and Communicator
 
 url: https://hltorresvera.github.io
+
 # theme: minima
 remote_theme: jekyll/minima@1e8a445
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # minima settings
+minima:
+  skin: classic
 minima:
   nav_pages:
     - index.md
     - resume.md
     - writing.md
+
