@@ -15,3 +15,5 @@ I'm also a **strategic**, **evidence-based**, science communicator. My practices
   <img src="https://hltorresvera.github.io/assets/images/profile.png" width="350">
   <p style="font-size: 12px; color: gray;">my king, Fjord - Dec 2024</p>
 </div>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01BJ7WA)
