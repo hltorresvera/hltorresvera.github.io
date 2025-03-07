@@ -1,13 +1,13 @@
-title: "Héctor L. Torres Vera"
+title: Héctor L. Torres Vera
 author: 
-  name: "Héctor L. Torres Vera"
-  email: "torresvera.hl [at] gmail.com"
+  name: Héctor L. Torres Vera
+  email: torresvera.hl [at] gmail.com
 
-description: "Biochemist, Science Writer, and Communicator"
+description: Biochemist, Science Writer, and Communicator
 
-url: "https://hltorresvera.github.io"
+url: https://hltorresvera.github.io
 # theme: minima
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: jekyll/minima@1e8a445
 
 # minima settings
 minima:
