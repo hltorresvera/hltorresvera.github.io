@@ -11,11 +11,7 @@ remote_theme: "jekyll/minima@1e8a445"
 
 # minima settings
 minima:
-
-  #skin
   skin: classic
-
-  #nav
   nav_pages:
     - index.md
     - resume.md
