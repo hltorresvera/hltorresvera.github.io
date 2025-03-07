@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: 
 ---
 
 I’m a queer, Boricua, molecular biologist and science writer.
