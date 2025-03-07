@@ -1,21 +1,22 @@
 title: "Héctor L. Torres Vera"
-author: "HLTV"
+author: 
+  name: "Héctor L. Torres Vera"
+  email: "torresvera.hl [at] gmail.com"
+
 description: "Biochemist, Science Writer, and Communicator"
-baseurl: ""
+
 url: "https://hltorresvera.github.io"
+# theme: minima
 remote_theme: "jekyll/minima@1e8a445"
 
-# Navigation
-header_pages:
-  - index.md
-  - resume.md
-  - writing.md
+# minima settings
+minima:
 
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  #skin
+  skin: classic
 
-# Markdown settings
-markdown: kramdown
-
+  #nav
+  nav_pages:
+    - index.md
+    - resume.md
+    - writing.md
