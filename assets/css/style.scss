@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-/* Base style: No underline by default */
+/* Remove default underline */
 .nav-item {
     text-decoration: none;
     position: relative;
@@ -14,8 +14,7 @@
   }
   
   /* Underline on hover */
-  .nav-item:hover::after,
-  .nav-item.active::after {
+  .nav-item:hover::after {
     content: "";
     position: absolute;
     left: 0;
@@ -25,16 +24,17 @@
     background: currentColor;
     transform: scaleX(1);
     transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Active link underline */
+  .nav-item.active::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 2px;
+    background: currentColor;
+    transform: scaleX(1);
   }  
-
-/* Active page underline */
-.nav-item.active::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -2px;
-  width: 100%;
-  height: 2px;
-  background: currentColor;
-  transform: scaleX(1);
-}
+  
