@@ -1,0 +1,18 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+.site-branding {
+    display: flex;
+    align-items: center;
+  }
+  
+  .site-logo {
+    height: 40px; /* Adjust size as needed */
+    width: 40px;
+    margin-left: 10px; /* Adds spacing between title and logo */
+  }
+  
