@@ -5,14 +5,21 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.site-branding {
+  .wrapper {
+    display: flex;
+    align-items: center; /* Keeps everything vertically aligned */
+    justify-content: space-between; /* Pushes nav to the right */
+  }
+  
+  .site-branding {
     display: flex;
     align-items: center;
   }
   
   .site-logo {
-    height: 40px; /* Adjust size as needed */
+    height: 40px;
     width: 40px;
-    margin-right: 10px; /* Adds spacing between title and logo */
+    margin-right: 15px;
   }
+  
   
