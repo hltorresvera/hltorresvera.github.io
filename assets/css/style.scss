@@ -1,25 +1,6 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}", "minima/initialize";
 
-  .wrapper {
-    display: flex;
-    align-items: center; /* Keeps everything vertically aligned */
-    justify-content: space-between; /* Pushes nav to the right */
-  }
-  
-  .site-branding {
-    display: flex;
-    align-items: center;
-  }
-  
-  .site-logo {
-    height: 40px;
-    width: 40px;
-    margin-right: 15px;
-  }
-  
   
