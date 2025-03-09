@@ -1,10 +1,8 @@
 {%- for path in include.paths -%}
   {%- assign page = site.pages | where: "path", path | first -%}
   {%- assign active_class = "" -%}
-  {%- if page.url == page.url or page.url == page.url | relative_url -%}
+  {%- if page.url == page.url | relative_url or page.url == include.active_url -%}
     {%- assign active_class = "active" -%}
   {%- endif -%}
   <a class="nav-item {{ active_class }}" href="{{ page.url | relative_url }}">{{ page.title }}</a>
 {%- endfor -%}
-<p>Current Page URL: {{ page.url }}</p>
-<p>Navigation Link Path: {{ path }}</p>
