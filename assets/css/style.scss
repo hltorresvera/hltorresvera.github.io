@@ -4,10 +4,24 @@
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}", "minima/initialize";
 
 nav a {
-  transition: color 0.3s ease-in-out, text-decoration 0.3s ease-in-out;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  padding-bottom: 5px;
 }
 
-nav a:hover {
-  color: #007acc; /* Change this to your preferred hover color */
-  text-decoration: underline;
+nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #007acc;
+  transition: width 0.3s ease-in-out;
 }
+
+nav a:hover::after {
+  width: 100%;
+}
+
