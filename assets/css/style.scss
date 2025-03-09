@@ -9,6 +9,7 @@
 .nav-item {
   position: relative;
   text-decoration: none; /* Remove default underline */
+  padding-bottom: 3px; /* Add spacing for underline */
 }
 
 /* Underline on hover */
@@ -16,7 +17,7 @@
   content: "";
   position: absolute;
   left: 0;
-  bottom: -2px;
+  bottom: 0;
   width: 100%;
   height: 2px;
   background: currentColor;
@@ -29,7 +30,7 @@
   content: "";
   position: absolute;
   left: 0;
-  bottom: -2px;
+  bottom: 0;
   width: 100%;
   height: 2px;
   background: currentColor;
