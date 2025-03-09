@@ -3,4 +3,11 @@
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}", "minima/initialize";
 
-  
+nav a {
+  transition: color 0.3s ease-in-out, text-decoration 0.3s ease-in-out;
+}
+
+nav a:hover {
+  color: #007acc; /* Change this to your preferred hover color */
+  text-decoration: underline;
+}
