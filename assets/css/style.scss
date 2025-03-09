@@ -4,13 +4,6 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-/* Remove default underline */
-.nav-item {
-    text-decoration: none;
-    position: relative;
-    padding-bottom: 2px;
-  }
   
   /* Underline on hover */
   .nav-item:hover::after {
