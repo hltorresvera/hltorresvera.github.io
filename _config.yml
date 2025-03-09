@@ -5,6 +5,7 @@ author:
 description: Biochemist, Science Writer, and Communicator
 
 url: https://hltorresvera.github.io
+baseurl: ""
 
 # theme: minima
 remote_theme: jekyll/minima@59f9a68
