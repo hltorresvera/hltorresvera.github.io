@@ -19,6 +19,6 @@ minima:
   skin: classic
 minima:
   nav_pages:
-    - resume.md
-    - writing.md
+    - resume.html
+    - writing.html
 
