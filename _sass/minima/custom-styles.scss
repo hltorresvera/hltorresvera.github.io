@@ -1,0 +1,53 @@
+/* navigation active-link underline and hover effect */
+
+nav a {
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    padding-bottom: 5px;
+  }
+  
+  nav a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #007acc; 
+    transition: width 0.3s ease-in-out;
+  }
+  
+  nav a:hover::after {
+    width: 100%;
+  }
+  
+  /* underline active for the current page */
+  nav a.active::after {
+    width: 100%;
+  }
+  
+  /*about section containers*/
+  
+  .about-container {
+    display: flex;
+    justify-content: space-between; /* Space between text and image */
+    align-items: center; /* Vertically center content */
+    gap: 20px; /* Add some space between the text and image */
+  }
+  
+  .about-container .text {
+    flex: 1; /* Take up remaining space for text */
+  }
+  
+  .about-container .image {
+    max-width: 350px; /* Limit the image size */
+  }
+  
+  .about-container .caption {
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
