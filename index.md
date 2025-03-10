@@ -14,7 +14,7 @@ I'm also a **strategic**, **evidence-based**, science communicator. My practices
 </div>
   
 <div class="image">
-  <img src="https://hltorresvera.github.io/assets/images/profile.jpg" width="350" />
+  <img src="https://hltorresvera.github.io/assets/images/profile.png" width="350" />
   <div class="caption">my toothless king, Fjord - Dec 2024</div>
 </div>
 
