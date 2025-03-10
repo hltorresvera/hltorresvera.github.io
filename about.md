@@ -1,6 +1,6 @@
 ---
 layout: base
-title: about
+title: about me
 ---
 
 ## about me

@@ -13,5 +13,3 @@ title:
     <div class="caption">my toothless king, Fjord - Dec 2024</div>
   </div>
 </div>
-
-[about me]({{ site.baseurl }}{% link about.md %})
