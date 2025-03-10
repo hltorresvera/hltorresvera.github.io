@@ -17,11 +17,17 @@ nav a::after {
   bottom: 0;
   width: 0;
   height: 2px;
-  background-color: #007acc;
+  background-color: #007acc; 
   transition: width 0.3s ease-in-out;
 }
 
 nav a:hover::after {
   width: 100%;
 }
+
+/* underline active for the current page */
+nav a.active::after {
+  width: 100%;
+}
+
 
