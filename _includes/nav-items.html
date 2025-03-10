@@ -2,7 +2,7 @@
   {%- assign hyperpage = site.pages | where: "path", path | first -%}
   {%- if hyperpage.title %}
     <a class="nav-item {% if hyperpage.url == page.url or hyperpage.url == page.url | append: '.html' %}active{% endif %}" href="{{ hyperpage.url | relative_url }}">
-      {{ hyperpage.title | escape }}
+      {{hyperpage.title| escape }}
     </a>
   {%- endif -%}
 {%- endfor -%}
