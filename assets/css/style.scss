@@ -36,23 +36,22 @@ nav a.active::after {
 
 .about-container {
   display: flex;
-  justify-content: space-between; /* Distribute space between text and image */
-  align-items: center; /* Align items vertically in the middle */
-  margin-bottom: 20px; /* Optional: Space below the section */
-}
-
-.about-container img {
-  max-width: 100%; /* Ensure the image is responsive */
-  height: auto; /* Keep the image proportional */
+  justify-content: space-between; /* Space between text and image */
+  align-items: center; /* Vertically center content */
+  gap: 20px; /* Add some space between the text and image */
 }
 
 .about-container .text {
-  flex: 1; /* Allow text to take up remaining space */
-  padding-right: 20px; /* Space between text and image */
+  flex: 1; /* Take up remaining space for text */
+}
+
+.about-container .image {
+  max-width: 350px; /* Limit the image size */
 }
 
 .about-container .caption {
   font-size: 12px;
   color: gray;
   text-align: center;
+  margin-top: 5px;
 }
