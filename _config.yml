@@ -19,7 +19,7 @@ minima:
   skin: classic
 minima:
   nav_pages:
-    - about.md
-    - resume.md
-    - writing.md
+    - about.md  
+    - resume.md  
+    - writing.md  
 
