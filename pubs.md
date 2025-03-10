@@ -1,6 +1,6 @@
 ---
 layout: base
-title: writing
+title: publications
 ---
 ## science writing  
 
