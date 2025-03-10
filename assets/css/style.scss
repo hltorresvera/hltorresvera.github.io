@@ -3,6 +3,8 @@
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}", "minima/initialize";
 
+/* navigation active-link underline and hover effect */
+
 nav a {
   position: relative;
   text-decoration: none;
@@ -30,4 +32,27 @@ nav a.active::after {
   width: 100%;
 }
 
+/*about section containers*/
 
+.about-container {
+  display: flex;
+  justify-content: space-between; /* Distribute space between text and image */
+  align-items: center; /* Align items vertically in the middle */
+  margin-bottom: 20px; /* Optional: Space below the section */
+}
+
+.about-container img {
+  max-width: 100%; /* Ensure the image is responsive */
+  height: auto; /* Keep the image proportional */
+}
+
+.about-container .text {
+  flex: 1; /* Allow text to take up remaining space */
+  padding-right: 20px; /* Space between text and image */
+}
+
+.about-container .caption {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+}
