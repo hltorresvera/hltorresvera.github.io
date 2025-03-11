@@ -14,7 +14,7 @@ nav a {
     bottom: 0;
     width: 0;
     height: 2px;
-    background-color: #007acc; 
+    background-color: #ee6838; 
     transition: width 0.3s ease-in-out;
   }
   
@@ -22,7 +22,7 @@ nav a {
     width: 100%;
   }
   
-  /* underline active for the current page */
+  /* underline active page nav */
   nav a.active::after {
     width: 100%;
   }
@@ -51,3 +51,13 @@ nav a {
     margin-top: 5px;
   }
   
+  /*change page content link colors*/
+  .page-content a {
+    color: #ee6838; /* Choose your preferred color */
+    text-decoration: none; /* Optional: remove default underline */
+  }
+  
+  .page-content a:hover {
+    color: #ee6838; /* Slightly darker shade for hover effect */
+    text-decoration: underline; /* Optional: add underline on hover */
+  }
