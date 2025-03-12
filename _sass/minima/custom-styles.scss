@@ -13,7 +13,7 @@ nav a {
     left: 0;
     bottom: 0;
     width: 0;
-    height: 2px;
+    height: 3px;
     background-color: #ee6838; 
     transition: width 0.3s ease-in-out;
   }
@@ -26,6 +26,12 @@ nav a {
   nav a.active::after {
     width: 100%;
   }
+
+  nav a.active {
+    background: rgba(238, 104, 56, 0.2);
+    padding: 5px 10px;
+    border-radius: 5px;
+  }  
   
   /*about section containers*/
   
@@ -61,3 +67,18 @@ nav a {
     color: #ee6838; /* Slightly darker shade for hover effect */
     text-decoration: underline; /* Optional: add underline on hover */
   }
+
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      text-align: center;
+    }
+    .image {
+      max-width: 80%;
+    }
+  }
+
+  .page-content a {
+    transition: color 0.2s ease-in-out;
+  }
+  
