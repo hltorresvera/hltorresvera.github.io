@@ -14,6 +14,6 @@ title: about me
   
   <div class="image">
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" />
-    <div class="caption">me, next to the UC Berkeley Cal-Cryo Krios G3</div>
+    <div class="caption">me, next to the Cal-Cryo Krios G3 at UC Berkeley </div>
   </div>
 </div>
