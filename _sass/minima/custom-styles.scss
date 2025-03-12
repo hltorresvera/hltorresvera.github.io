@@ -117,50 +117,11 @@ nav a {
   .image img:hover {
     border: 2px solid #ee6838; /* Subtle, theme-colored border */
   }
-  
-/* Add smooth fade-in transition for page content */
-body {
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
-}
-
-body.loaded {
-  opacity: 1;
-}
-
-$(document).ready(function() {
-  $('body').addClass('loaded');
-});
 
 /* Smooth scroll effect for internal links */
 html {
   scroll-behavior: smooth;
 }
-
-/* Fade-in animation for elements */
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(30px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-
-.fade-in {
-  animation: fadeIn 1s ease-out;
-}
-
-.element-to-animate {
-  opacity: 0;
-}
-
-$(window).on('scroll', function() {
-  $('.element-to-animate').each(function() {
-    var elementPosition = $(this).offset().top;
-    var scrollPosition = $(window).scrollTop();
-    
-    if (elementPosition < scrollPosition + $(window).height() - 100) {
-      $(this).addClass('fade-in');
-    }
-  });
-});
 
 /* Style the logo next to the email */
 .u-email {
