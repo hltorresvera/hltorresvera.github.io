@@ -57,6 +57,19 @@ nav a {
     margin-top: 5px;
   }
   
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column; /* Stack content vertically */
+      text-align: center; /* Center-align text for better readability */
+    }
+  
+    .about-container .image {
+      max-width: 80%; /* Scale down the image on smaller screens */
+      margin: 0 auto; /* Center the image */
+    }
+  }
+  
+
   /*change page content link colors*/
   .page-content a {
     color: #ee6838; /* Choose your preferred color */
