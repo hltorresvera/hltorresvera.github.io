@@ -11,10 +11,17 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email">{{ site.author.email }}</a></li>
+            <li>
+              <a class="u-email" href="mailto:{{ site.author.email }}">
+                {% if site.author.email_logo %}
+                  <img src="{{ site.author.email_logo | relative_url }}" alt="Email Logo" class="email-logo">
+                {% endif %}
+                {{ site.author.email }}
+              </a>
+            </li>
           {%- endif %}
         </ul>
-      {%- endif %}
+        {%- endif %}
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
