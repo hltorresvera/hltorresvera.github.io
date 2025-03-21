@@ -1,0 +1,2 @@
+1. Content scroll and not page scroll.
+2. Fix text alignment on mobile. 
