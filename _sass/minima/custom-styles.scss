@@ -38,7 +38,7 @@ nav a {
   .about-container {
     display: flex;
     justify-content: space-between; /* Space between text and image */
-    align-items: center; /* Vertically center content */
+    align-items: left; /* Vertically center content */
     gap: 20px; /* Add some space between the text and image */
   }
   
@@ -60,7 +60,7 @@ nav a {
   @media (max-width: 768px) {
     .about-container {
       flex-direction: column; /* Stack content vertically */
-      text-align: center; /* Center-align text for better readability */
+      text-align: left; /* Left-align text for better readability */
     }
   
     .about-container .image {
