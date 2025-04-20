@@ -43,11 +43,11 @@ nav a {
   }
   
   .about-container .text {
-    flex: 1; /* Take up remaining space for text */
+    flex: 2; /* Take up remaining space for text */
   }
   
   .about-container .image {
-    max-width: 50px; /* Limit the image size */
+    max-width: 250px; /* Limit the image size */
   }
   
   .about-container .caption {
