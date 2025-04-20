@@ -5,12 +5,12 @@ title: about me
 
 <div class="about-container">
   <div class="text">
+    <h2>about me</h2>
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" />
     <div class="caption">me, next to the Cal-Cryo Krios G3 at UC Berkeley </div>
   </div>
   
   <div class="image">
-    <h2>about me</h2>
     <p>Puertorican born in Texas and raised in <i>La Perla del Sur</i>.</p>
     <p>I completed my B.S. in chemistry at the University of Puerto Rico at Cayey. 
     My passion for research since then led me to pursue a Ph.D. in the Department of Molecular and Cell Biology at the University of California, Berkeley.</p>
