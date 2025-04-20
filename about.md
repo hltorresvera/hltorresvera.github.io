@@ -7,9 +7,9 @@ title: about me
   <div class="text">
     <h2>about me</h2>
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" />
-    <div class="caption">me, next to the Cal-Cryo Krios G3 at UC Berkeley </div>
+    <div class="caption">me, next to a <a href=" https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>electron microscope</div>
   </div>
-  
+
   <div class="image">
     <p>Puertorican born in Texas and raised in <i>La Perla del Sur</i>.</p>
     <p>I completed my B.S. in chemistry at the University of Puerto Rico at Cayey. 
