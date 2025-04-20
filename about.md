@@ -7,7 +7,7 @@ title: about me
   <div class="text">
     <h2>about me</h2>
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="350" />
-    <div class="caption">me, next to a <a href=" https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>electron microscope</div>
+    <div class="caption">me, next to one of <a href=" https://qb3.berkeley.edu/facility/cal-cryo/"> CalCryo@QB3</a>'s electron microscopes</div>
   </div>
 
   <div class="image">
