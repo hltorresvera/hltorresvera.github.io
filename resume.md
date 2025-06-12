@@ -9,17 +9,17 @@ title: resume
 _University of California, Berkeley_  
 
 - Coursework in molecular biology, biophysics, chemical biology, teaching, and research ethics  
-- CryoEM and electrophysical characterization of a blue-shifted channelrhodopsin for use in optognetics  
-- Purified, characterized, and modified ribosomes using affinity chromatography, sucrose density gradients, and _in vitro_ translation assays for use in genetic code expansion
+- Cryo-electron microscopy and electrophysical characterization of a blue-shifted channelrhodopsin   
+- Purified and characterized modified _E. coli_ribosomes using affinity chromatography, sucrose density gradients, and _in vitro_ translation assays
 
 **B.S. in Natural Sciences** (2015-2020)  
 _Universidad de Puerto Rico en Cayey_  
 
 - Majored in chemistry and mathematics
-- Coursework in organic, analytical, and physical chemistry
-- Mathmathics emphasis on programming
-- Additional coursework in Anglo-Caribbean poetry, contemporary Latin-American literature in the US
-- Research in protein structure calculations using rosetta and in density functional theory analysis of HOMO/LUMO energy levels of photo-sensitive dyes
+- Coursework in organic chemistry, analytical chemistry, biochemistry, and physical chemistry
+- Coursework in mathmathics with emphasis on programming and algorithms
+- Additional coursework in Anglo-Caribbean poetry and contemporary Latin-American literature in the US
+- Broad research experiences in biochemistry, computational chemistry, and biophysical chemistry.
 
 ## experience
 
@@ -27,7 +27,7 @@ _Universidad de Puerto Rico en Cayey_
 _SciCommBites_  
 
 - Wrote and edit short form science communication "bites", summarizing currect research in science communication and best practices  
-- As Managing Editor: leads executiuve team discussions, manages shared cloud-hosting of the scicommbites.com wordpress.com website, schedules post publishing, and handles back-end management of organization using google workspace
+- As Managing Editor: leads executiuve team discussions, manages website backend and publishing
 
 **Writer and Editor** (2023-present)  
 _MCB Transcript Departmental Newsletter - UC Berkeley - California_  
@@ -39,4 +39,4 @@ _MCB Transcript Departmental Newsletter - UC Berkeley - California_
 _The Berkeley Science Review_  
 
 - Wrote short-form (~500 word) and long-form (~2000 word) magazine articles highlighting Berkeley research for lay audiences.  
-- As Managing Editor: scheduled meetings, managed finances through UC Berkeley CalLink website, requested funding from the Graduate Assembly office, and handled ordering and publishing of the print magazine (thousands of copies a year).
+- As Managing Editor: scheduled meetings, managed organization finances and coordinated publishing of thousands of print magazines a year.
