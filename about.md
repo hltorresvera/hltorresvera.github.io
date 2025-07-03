@@ -11,7 +11,7 @@ title: about me
   </div>
 
   <div class="image">
-    <p>Puertorican born in Texas and raised in <i>La Perla del Sur</i>.</p>
+    <p>Puertorican born in Texas.</p><p>Raised in <i>La Perla del Sur</i>.</p>
     <p>I completed my B.S. in chemistry at the University of Puerto Rico at Cayey. 
     My passion for research since then led me to pursue a Ph.D. in the Department of Molecular and Cell Biology at the University of California, Berkeley.</p>
     <p>Currently, I am also Managing Editor for the Berkeley Science Review and SciCommBites, as well as an author and editor for the MCB Transcript at UC Berkeley.</p>
