@@ -35,7 +35,7 @@ _MCB Transcript Departmental Newsletter - UC Berkeley - California_
 - Writes short-form news articles highlighting current events and initiatives at the Departmental level, particularly those relating to diveristy, equity, inclusion, justice, and belonging.
 - Edits newsletter articles for consistency and clarity.  
 
-**Writing, Editor, and Managing Editor** (2020-present)  
+**Writing, Editor, and Managing Editor** (2020-2023)  
 _The Berkeley Science Review_  
 
 - Wrote short-form (~500 word) and long-form (~2000 word) magazine articles highlighting Berkeley research for lay audiences.  
