@@ -18,7 +18,6 @@ plugins:
 # minima settings
 minima:
   skin: classic
-minima:
   nav_pages:
     - about.md  
     - resume.md  
