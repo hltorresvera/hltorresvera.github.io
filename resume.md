@@ -26,7 +26,7 @@ _Universidad de Puerto Rico en Cayey_
 **Writer, Editor, and Managing Editor** (2023-present)  
 _SciCommBites_  
 
-- Wrote and edit short form science communication "bites", summarizing currect research in science communication and best practices  
+- Wrote and edit short form science communication "bites", summarizing current research in science communication and best practices  
 - As Managing Editor: leads executiuve team discussions, manages website backend and publishing
 
 **Writer and Editor** (2023-present)  
