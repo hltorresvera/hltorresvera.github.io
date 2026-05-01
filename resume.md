@@ -27,15 +27,14 @@ _Universidad de Puerto Rico en Cayey_
 _SciCommBites_  
 
 - Wrote and edit short form science communication "bites", summarizing current research in science communication and best practices  
-- As Managing Editor: leads executiuve team discussions, manages website backend and publishing
+- As Managing Editor: leads executive team discussions, manages website backend and publishing
 
 **Writer and Editor** (2023-present)  
 _MCB Transcript Departmental Newsletter - UC Berkeley - California_  
+- Wrote short-form news articles highlighting current events and initiatives at the Departmental level, particularly those relating to diversity, equity, inclusion, justice, and belonging.
+- Edited newsletter articles for consistency and clarity.  
 
-- Writes short-form news articles highlighting current events and initiatives at the Departmental level, particularly those relating to diveristy, equity, inclusion, justice, and belonging.
-- Edits newsletter articles for consistency and clarity.  
-
-**Writing, Editor, and Managing Editor** (2020-2023)  
+**Writer, Editor, and Managing Editor** (2020-2023)  
 _The Berkeley Science Review_  
 
 - Wrote short-form (~500 word) and long-form (~2000 word) magazine articles highlighting Berkeley research for lay audiences.  
