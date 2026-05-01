@@ -2,6 +2,13 @@
 layout: base
 title: publications
 ---
+
+## research articles
+
+- Teo, R. D., Du, X., <u>Torres Vera, H.L.</u>, Migliore, A., & Beratan, D. N. (2021). Correlation between charge transport and base excision repair in the muty–dna glycosylase. The Journal of Physical Chemistry B, 125(1), 17–23. <https://doi.org/10.1021/acs.jpcb.0c08598>
+
+- Tran, D. T., Cavett, V. J., Dang, V. Q., <u>Torres Vera, H. L.</u>, & Paegel, B. M. (2016). Evolution of a mass spectrometry-grade protease with PTM-directed specificity. Proceedings of the National Academy of Sciences, 113(51), 14686–14691. <https://doi.org/10.1073/pnas.1609925113>
+
 ## science writing  
 
 ### the berkeley science review
@@ -25,9 +32,3 @@ title: publications
 - [Role of identity in mentorship at the forefront of the 2024 iBio conference](https://mcb.berkeley.edu/news-and-events/transcript/fall-2024-2024-ibio-conference)
 - [Grad Gatherings initiative provides space for community and care](https://mcb.berkeley.edu/news-and-events/transcript/spring-2024-graduate-gatherings)
 - [On the evolution of iBio from iMCB](https://mcb.berkeley.edu/news-and-events/transcript/fall-2023-evolution-ibio-imcb)
-
-## research articles
-
-- Teo, R. D., Du, X., <u>Torres Vera, H.L.</u>, Migliore, A., & Beratan, D. N. (2021). Correlation between charge transport and base excision repair in the muty–dna glycosylase. The Journal of Physical Chemistry B, 125(1), 17–23. <https://doi.org/10.1021/acs.jpcb.0c08598>
-
-- Tran, D. T., Cavett, V. J., Dang, V. Q., <u>Torres Vera, H. L.</u>, & Paegel, B. M. (2016). Evolution of a mass spectrometry-grade protease with PTM-directed specificity. Proceedings of the National Academy of Sciences, 113(51), 14686–14691. <https://doi.org/10.1073/pnas.1609925113>
