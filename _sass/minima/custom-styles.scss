@@ -1,3 +1,5 @@
+
+
 /* =============================================================
    TYPOGRAPHY
    Body copy uses Georgia (serif) for warmth and readability.
@@ -171,4 +173,48 @@ nav a.active {
 
 html {
   scroll-behavior: smooth;
+}
+
+/* =============================================================
+   ABOUT PAGE — sticky image variant
+   ============================================================= */
+
+.about-container--sticky {
+  align-items: flex-start; /* needed for sticky to work */
+
+  .image {
+    flex: 0 0 40%;        /* wider image column, doesn't shrink */
+    position: sticky;
+    top: 2rem;            /* sticks 2rem below the top of the viewport */
+
+    img {
+      width: 100%;        /* fills the column */
+      height: auto;
+    }
+  }
+
+  .text {
+    flex: 1;              /* takes remaining ~60% */
+    padding-left: 2rem;   /* breathing room between image and text */
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+
+    .image {
+      position: static;   /* sticky doesn't make sense on mobile */
+      flex: unset;
+      width: 100%;
+
+      img {
+        max-width: 80%;
+        margin: 0 auto;
+        display: block;
+      }
+    }
+
+    .text {
+      padding-left: 0;
+    }
+  }
 }
