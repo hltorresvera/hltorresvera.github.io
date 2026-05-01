@@ -5,8 +5,8 @@ title:
 <div class="about-container">
   <div class="text">
   <p>I’m a queer, Boricua, molecular biologist and science writer.</p>
-  <p>My research uses <b>cryo-electron microscopy and electrophysiology</b> to study the structure and function of channelrhodopsins.</p>
-  <p>I'm also a <b>strategic and evidence-based</b> science communicator. My work aim to foster trust, build community, and increase citizen engagement with STEM.</p>
+  <p>In my thesis research, I use <b>cryo-electron microscopy and electrophysiology</b> to study the structure and function of channelrhodopsins.</p>
+  <p>I'm also a <b>strategic and evidence-based</b> science communicator. My work aims to increase trust in scientists by fostering community wellbeing and citizen engagement with science.</p>
   </div>
 
   <div class="image">
