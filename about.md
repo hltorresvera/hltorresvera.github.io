@@ -3,12 +3,12 @@ layout: base
 title: about me
 ---
 <div class="about-container about-container--sticky">
-  <div class="text">
+  <div class="left">
     <h2>about me</h2>
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="750" />
     <div class="caption">me (Héctor), standing next to one of <a href="https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>'s electron microscopes</div>
   </div>
-  <div class="image" markdown="1">
+  <div class="right" markdown="1">
 
 Born in Texas by Puerto Rican parents and raised in *La Perla del Sur* — Ponce, PR. 
 
