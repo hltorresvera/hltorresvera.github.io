@@ -101,11 +101,11 @@ nav a.active {
   gap: 20px;
 }
 
-.about-container .text {
+.about-container .left {
   flex: 1;
 }
 
-.about-container .image {
+.about-container .right {
   flex: 1;
 }
 
@@ -123,7 +123,7 @@ nav a.active {
     text-align: left;
   }
 
-  .about-container .image {
+  .about-container .left {
     max-width: 80%;
     margin: 0 auto;
   }
@@ -193,7 +193,7 @@ html {
     }
   }
 
-  .text {
+  .left {
     flex: 1;              /* takes remaining ~60% */
     padding-left: 2rem;   /* breathing room between image and text */
   }
@@ -201,7 +201,7 @@ html {
   @media (max-width: 768px) {
     flex-direction: column;
 
-    .image {
+    .right {
       position: static;   /* sticky doesn't make sense on mobile */
       flex: unset;
       width: 100%;
