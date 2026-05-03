@@ -110,6 +110,16 @@ nav a.active {
       border: 2px solid #ee6838;
     }
   }
+     .right img {
+    width: 100%;
+    height: auto;
+    border: 2px solid transparent;
+    transition: border 0.3s ease-in-out;
+
+    &:hover {
+      border: 2px solid #ee6838;
+    }
+  }
 
   .caption {
     font-size: 12px;
