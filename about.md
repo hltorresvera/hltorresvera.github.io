@@ -3,8 +3,8 @@ layout: base
 title: about me
 ---
 <div class="about-container" about-container--wide>
+   <h2>about me</h2>
   <div class="left">
-    <h2>about me</h2>
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="750" />
     <div class="caption">me (Héctor), standing next to one of <a href="https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>'s electron microscopes</div>
   </div>
