@@ -97,6 +97,12 @@ nav a.active {
   gap: 2rem;
 }
 
+.about-container--wide {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .about-container .left,
 .about-container .right {
   flex: 1;
