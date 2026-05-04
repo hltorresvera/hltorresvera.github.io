@@ -2,7 +2,7 @@
 layout: base
 title: about me
 ---
-<div class="about-container">
+<div class="about-container" about-container--wide>
   <div class="left">
     <h2>about me</h2>
     <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="750" />
