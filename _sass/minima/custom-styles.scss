@@ -88,64 +88,64 @@ nav a.active {
 /* =============================================================
    TWO-COLUMN LAYOUT (.left / .right)
    Base: equal columns, side by side.
+   Modifier --sticky: left col fixed-width and sticky.
    ============================================================= */
 
 .about-container {
   display: flex;
   align-items: flex-start;
   gap: 2rem;
+}
 
-  .left, .right {
-    flex: 1;
-  }
+.about-container .left,
+.about-container .right {
+  flex: 1;
+}
 
-  .left img {
-    width: 100%;
-    height: auto;
-    border: 2px solid transparent;
-    transition: border 0.3s ease-in-out;
+.about-container .left img,
+.about-container .right img {
+  width: 100%;
+  height: auto;
+  border: 2px solid transparent;
+  transition: border 0.3s ease-in-out;
+}
 
-    &:hover {
-      border: 2px solid #ee6838;
-    }
-  }
-     .right {
-    flex: 1;
-  }
-     .right img {
-    width: 100%;
-    height: auto;
-    border: 2px solid transparent;
-    transition: border 0.3s ease-in-out;
+.about-container .left img:hover,
+.about-container .right img:hover {
+  border: 2px solid #ee6838;
+}
 
-    &:hover {
-      border: 2px solid #ee6838;
-    }
-  }
+.about-container .caption {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+  margin-top: 5px;
+}
 
-  .caption {
-    font-size: 12px;
-    color: gray;
-    text-align: center;
-    margin-top: 5px;
-  }
-
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
+  .about-container {
     flex-direction: column;
+  }
 
-    .left {
-      max-width: 80%;
-      margin: 0 auto;
-    }
+  .about-container .left {
+    max-width: 80%;
+    margin: 0 auto;
   }
 }
 
-  @media (max-width: 768px) {
-    .left {
-      position: static;
-      flex: unset;
-      max-width: 80%;
-    }
+/* Sticky variant for long-text pages (e.g. about.md) */
+
+.about-container--sticky .left {
+  flex: 0 0 40%;
+  position: sticky;
+  top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .about-container--sticky .left {
+    position: static;
+    flex: unset;
+    max-width: 80%;
   }
 }
 
