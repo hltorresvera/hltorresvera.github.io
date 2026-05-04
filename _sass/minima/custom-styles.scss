@@ -88,7 +88,6 @@ nav a.active {
 /* =============================================================
    TWO-COLUMN LAYOUT (.left / .right)
    Base: equal columns, side by side.
-   Modifier --sticky: left col fixed-width and sticky.
    ============================================================= */
 
 .about-container {
@@ -137,17 +136,6 @@ nav a.active {
     }
   }
 }
-
-.about-container--sticky {
-  .left {
-    flex: 0 0 40%;
-    position: sticky;
-    top: 2rem;
-  }
-
-  .right {
-    flex: 1;
-  }
 
   @media (max-width: 768px) {
     .left {
