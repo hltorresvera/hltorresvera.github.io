@@ -6,7 +6,7 @@ title: about me
 <div class="about-container" about-container--wide>
 
   <div class="left">
-    <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="750" />
+    <img src="https://hltorresvera.github.io/assets/images/me.jpg" width="500" />
     <div class="caption">me (Héctor), standing next to one of <a href="https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>'s electron microscopes</div>
   </div>
   <div class="right" markdown="1">
