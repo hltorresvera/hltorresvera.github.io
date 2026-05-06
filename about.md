@@ -3,8 +3,10 @@ layout: base
 title: about me
 ---
 
-<img class="float-left" src="https://hltorresvera.github.io/assets/images/me.jpg" />
-<div class="caption">me (Héctor), standing next to one of <a href="https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>'s electron microscopes</div>
+<div class="float-left">
+  <img src="https://hltorresvera.github.io/assets/images/me.jpg" />
+  <div class="caption">me (Héctor), standing next to one of <a href="https://qb3.berkeley.edu/facility/cal-cryo/">CalCryo@QB3</a>'s electron microscopes</div>
+</div>
 
 Born in Texas by Puerto Rican parents and raised in *La Perla del Sur* — Ponce, PR.
 I completed my B.S. in Natural Sciences (Chemistry) at the University of Puerto Rico at Cayey, where I did undergraduate research ranging from biochemistry to computational chemistry to biophysics. Currently, I am a Ph.D. student in the Department of Molecular and Cell Biology at UC Berkeley, where I study **channelrhodopsins**: light-sensitive proteins that let researchers control and study neurons using light. My work uses **cryo-electron microscopy** to determine their molecular structure and **electrophysiology** to measure how they function.
