@@ -3,8 +3,10 @@ layout: home
 title:
 ---
 
-<img class="float-right" src="https://hltorresvera.github.io/assets/images/profile.png" />
-<div class="caption">my toothless king, Fjord - Dec 2024</div>
+<div class="float-right">
+  <img src="https://hltorresvera.github.io/assets/images/profile.png" />
+  <div class="caption">my toothless king, Fjord - Dec 2024</div>
+</div>
 
 I'm a queer, Boricua, molecular biologist and science writer.
 
