@@ -9,8 +9,8 @@ title: resume
 _University of California, Berkeley_  
 
 - Coursework in molecular biology, biophysics, chemical biology, teaching, and research ethics  
-- Cryo-electron microscopy and electrophysical characterization of a blue-shifted channelrhodopsin   
-- Purified and characterized modified _E. coli_ribosomes using affinity chromatography, sucrose density gradients, and _in vitro_ translation assays
+- Cryo-electron microscopy and whole-cell patch-clamp electrophysiology (HEK293) to determine the structure and function of a channelrhodopsin; processing in cryoSPARC, Topaz, Coot, Phenix, and ChimeraX  
+- Purified and characterized modified _E. coli_ ribosomes using affinity chromatography, sucrose density gradients, and _in vitro_ translation assays
 
 **B.S. in Natural Sciences** (2015-2020)  
 _Universidad de Puerto Rico en Cayey_  
@@ -29,12 +29,12 @@ _SciCommBites_
 - Wrote and edit short form science communication "bites", summarizing current research in science communication and best practices  
 - As Managing Editor: leads executive team discussions, manages website backend and publishing
 
-**Writer and Editor** (2023-present)  
+**Writer and Editor** (2023-2026)  
 _MCB Transcript Departmental Newsletter - UC Berkeley - California_  
 - Wrote short-form news articles highlighting current events and initiatives at the Departmental level, particularly those relating to diversity, equity, inclusion, justice, and belonging.
 - Edited newsletter articles for consistency and clarity.  
 
-**Writer, Editor, and Managing Editor** (2020-2023)  
+**Writer, Editor, and Managing Editor** (2021-2024)  
 _The Berkeley Science Review_  
 
 - Wrote short-form (~500 word) and long-form (~2000 word) magazine articles highlighting Berkeley research for lay audiences.  
